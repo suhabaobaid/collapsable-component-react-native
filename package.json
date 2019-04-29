@@ -1,0 +1,19 @@
+{
+  "name": "collapsable-component-react-native",
+  "version": "1.0.0",
+  "description": "A collapsable component for react native that acts as an accordion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/suhabaobaid/collapsable-component-react-native.git"
+  },
+  "author": "Suha Baobaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhabaobaid/collapsable-component-react-native/issues"
+  },
+  "homepage": "https://github.com/suhabaobaid/collapsable-component-react-native#readme"
+}
