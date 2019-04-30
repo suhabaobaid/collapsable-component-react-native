@@ -29,7 +29,7 @@ class CollapsableComponent extends Component<Props, State> {
   };
 
   state: State = {
-    isCollapsed: true,
+    isCollapsed: this.props.isCollapsed,
     updatedHeight: 0,
     isHeightSet: false,
     height: 0
