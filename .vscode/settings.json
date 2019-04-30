@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false,
+  "flow.pathToFlow": "node_modules/.bin/flow",
+  "flow.runOnAllFiles": true,
+  "flow.useNPMPackagedFlow": true,
+  "flow.useLSP": false,
+}
